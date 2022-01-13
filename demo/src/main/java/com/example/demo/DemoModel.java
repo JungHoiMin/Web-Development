@@ -7,6 +7,7 @@ import lombok.RequiredArgsConstructor;
 @Builder
 @RequiredArgsConstructor
 public class DemoModel {
+
 	@NonNull
 	private String id;
 }
